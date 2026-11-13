@@ -1,0 +1,16 @@
+{
+  "id": "./index.html",
+  "name": "日常小帳｜每日記帳",
+  "short_name": "日常小帳",
+  "description": "每天記錄家庭支出與每日分類小計。",
+  "lang": "zh-Hant-TW",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff5f6",
+  "theme_color": "#fff5f6",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any 192x192 512x512", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
